@@ -1,5 +1,5 @@
-# Welcome to WebScrubr_v1
-**WebScrubr is a terminal-based parsing tool designed to scrub and search through webpage source code.**
+## Welcome to WebScrubr_v1
+**WebScrubr is a terminal-based parsing tool designed to scrub and search through webpage source code**
 
 **This program utlilzes multiple repositories in addition to the libraries that are included with Python 3.10.5**
 
